@@ -1,0 +1,29 @@
+.container {
+    border-top: double 10px;
+    border-right: double 10px;
+    border-left: double 10px;
+    border-bottom: double 10px;
+  }
+  
+  .box {
+    border: -2px;
+    border-right-width: 1px;
+    border-bottom-color: black;
+  }
+  .h1{
+    fount;
+  }
+
+  .p{
+    color: black;
+    font-style: Arial;
+  }
+
+  .span1{
+    color: #999999;
+  }
+  
+  .span2{
+    color: #fb6542;
+  }
+  
