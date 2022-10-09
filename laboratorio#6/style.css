@@ -1,22 +1,28 @@
 .container {
-    border-top: double 10px;
-    border-right: double 10px;
-    border-left: double 10px;
-    border-bottom: double 10px;
+    border-top: solid 1px;
+    border-right: solid 1px;
+    border-left: solid 1px;
+    border-bottom: solid 1px;
   }
   
   .box {
-    border: -2px;
-    border-right-width: 1px;
+    border: 1px;
+    margin-bottom: 0.25em;
+    padding: 0%;
+    border-right-width: 1px solid black;
     border-bottom-color: black;
   }
   .h1{
-    fount;
+    color: #375e97;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.3;
+    border-bottom: 1px solid #375e97;
   }
 
   .p{
     color: black;
-    font-style: Arial;
+    font-family: Arial;
+    font-size: 1rem;
   }
 
   .span1{
